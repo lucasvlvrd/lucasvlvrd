@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Lucas!</h1>
 <h2 align="center">Web Developer currently living in São Paulo - Brazil</h2>
 
-
+<ul>
+  <li>Graduated in System Analysis and Development from FIAP, Brazil's best tech university</li>
+  <li>Passionate about Web Development but with deep interest in mobile development too</li>
+</ul>
 
 <h1 align="left">Languages:</h1>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
