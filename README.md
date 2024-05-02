@@ -6,6 +6,7 @@
   <li>Graduated in System Analysis and Development from FIAP, Brazil's best tech university</li>
   <li>Passionate about Web Development but with deep interest in mobile development too</li>
   <li>I also love playing chess, videogames and listening to (a lot of) music.</li>
+  <li>I speak brazilian portuguese, english and I'm currently working on learning italian</li>
 </ul>
 
 <h1 align="left">Languages:</h1>
