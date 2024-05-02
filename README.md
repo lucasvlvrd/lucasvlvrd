@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Lucas!</h1>
-<h2 align="center">Web Developer currently living in São Paulo - Brazil</h2>
+<h1 align="center">Hi, I'm Lucas! 😁</h1>
+<h2 align="center">I'm a Web Developer currently living in São Paulo - Brazil🌎</h2>
 
+<h3 align="left">About me:</h3>
 <ul>
   <li>Graduated in System Analysis and Development from FIAP, Brazil's best tech university</li>
   <li>Passionate about Web Development but with deep interest in mobile development too</li>
+  <li>I also love playing chess, videogames and listening to (a lot of) music.</li>
 </ul>
 
 <h1 align="left">Languages:</h1>
@@ -31,8 +33,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<h2 align="left">Contact Info:</h2>
+<h2 align="left">Feel free to contact me anytime:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/lucasvalverdemb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasvalverdemb" height="30" width="40" /></a>
 <a href="https://instagram.com/vlvrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlvrd" height="30" width="40" /></a>
+  <h4>Or email me at lucasvalverdemb@gmail.com</h4>
 </p>
