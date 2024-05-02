@@ -33,8 +33,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<h2 align="left">Feel free to contact me anytime:</h2>
-<p align="left">
+<h2 align="center">Feel free to contact me anytime:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/lucasvalverdemb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasvalverdemb" height="30" width="40" /></a>
 <a href="https://instagram.com/vlvrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlvrd" height="30" width="40" /></a>
   <h4>Or email me at lucasvalverdemb@gmail.com</h4>
