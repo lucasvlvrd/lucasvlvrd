@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas! 😁</h1>
-<h2 align="center">I'm a Web Developer currently living in São Paulo - Brazil🌎</h2>
+<h2 align="center">I'm a Web Developer currently based in São Paulo - Brazil🌎</h2>
 
 <h3 align="left">About me:</h3>
 <ul>
