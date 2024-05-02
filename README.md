@@ -37,5 +37,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/lucasvalverdemb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasvalverdemb" height="30" width="40" /></a>
 <a href="https://instagram.com/vlvrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlvrd" height="30" width="40" /></a>
-  <h4>Or email me at lucasvalverdemb@gmail.com</h4>
+  <h4 align="center">Or email me at lucasvalverdemb@gmail.com</h4>
 </p>
